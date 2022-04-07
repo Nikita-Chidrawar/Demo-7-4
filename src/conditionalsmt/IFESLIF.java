@@ -7,7 +7,7 @@ public class IFESLIF {
 
 
 // this is if else prog
-	
+	// if else  prgra
 	public static void main(String args[])
 	{
 	int x=5000 ;
